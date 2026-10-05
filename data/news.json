@@ -1,0 +1,225 @@
+{
+  "updated_at": "2026-10-05T07:00:00+05:30",
+  "stories": [
+    {
+      "title": "Nvidia, Broadcom shielded as AI power crunch hits chip supply chain, says Morgan Stanley",
+      "source": "Reuters",
+      "date": "2026-10-05",
+      "url": "https://www.reuters.com/business/nvidia-broadcom-shielded-ai-power-crunch-hits-chip-supply-chain-says-morgan-2026-10-05/",
+      "tags": [
+        "AI & Compute",
+        "Business",
+        "Memory"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "summary": "Power availability is emerging as a constraint on AI infrastructure deployment, with knock-on effects for parts of the semiconductor supply chain.",
+      "why": "AI demand is no longer constrained only by chips. Power, memory, networking and data-centre infrastructure can determine how quickly accelerator demand turns into deployed compute."
+    },
+    {
+      "title": "Applied Materials and Besi expand partnership for next-generation AI packaging",
+      "source": "Applied Materials",
+      "date": "2026-10-01",
+      "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-besi-expand-strategic-partnership-advance/",
+      "tags": [
+        "Advanced Packaging",
+        "Equipment",
+        "AI & Compute"
+      ],
+      "companies": [
+        "Applied Materials"
+      ],
+      "summary": "The partnership expands work across hybrid bonding, thermo-compression bonding and die-on-panel integration.",
+      "why": "AI systems increasingly depend on tightly integrating logic, HBM and other chiplets. Better bonding and interconnect density can improve bandwidth and power efficiency while enabling larger 3D packages."
+    },
+    {
+      "title": "Applied Materials and KIOXIA partner to advance next-generation memory technology",
+      "source": "Applied Materials",
+      "date": "2026-09-29",
+      "url": "https://www.appliedmaterials.com/us/en/newsroom.html",
+      "tags": [
+        "Memory",
+        "Equipment",
+        "Research"
+      ],
+      "companies": [
+        "Applied Materials",
+        "Kioxia"
+      ],
+      "summary": "A new collaboration at Applied's EPIC Center focuses on next-generation memory process innovation.",
+      "why": "AI growth is pulling memory technology forward alongside logic. Equipment/process co-development can shorten the path from new memory structures to high-volume manufacturing."
+    },
+    {
+      "title": "Scaling next-generation 3D NAND with high-precision selective removal",
+      "source": "Applied Materials",
+      "date": "2026-09-24",
+      "url": "https://www.appliedmaterials.com/us/en/newsroom.html",
+      "tags": [
+        "Memory",
+        "Manufacturing",
+        "Equipment",
+        "Technology"
+      ],
+      "companies": [
+        "Applied Materials"
+      ],
+      "summary": "Applied describes selective-removal process technology aimed at increasingly complex 3D NAND structures.",
+      "why": "As NAND stacks become taller and more complex, process selectivity and profile control become harder. New removal techniques can help preserve critical structures while enabling further vertical scaling."
+    },
+    {
+      "title": "Why panel-level processing could transform advanced semiconductor packaging",
+      "source": "Lam Research",
+      "date": "2026-09-08",
+      "url": "https://newsroom.lamresearch.com/blog?keywords=advanced+packaging",
+      "tags": [
+        "Advanced Packaging",
+        "Manufacturing",
+        "Technology"
+      ],
+      "companies": [
+        "Lam Research"
+      ],
+      "summary": "Lam examines the shift from wafer-based packaging toward larger panel formats for AI-era packages.",
+      "why": "Panels offer more usable area for very large multi-chip packages and may lower cost per package, but they introduce difficult uniformity, handling and process-control problems — creating new equipment opportunities."
+    },
+    {
+      "title": "Lam's global lab network compresses the path from discovery to fab deployment",
+      "source": "Lam Research",
+      "date": "2026-08-13",
+      "url": "https://newsroom.lamresearch.com/blog?keywords=advanced+packaging",
+      "tags": [
+        "Research",
+        "Equipment",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Lam Research"
+      ],
+      "summary": "Lam describes its globally integrated R&D infrastructure and how it connects process development with customer fabs.",
+      "why": "Semiconductor process changes are expensive and slow to qualify. Closer collaboration between equipment labs and fabs can reduce development cycles at major technology inflection points."
+    },
+    {
+      "title": "SABRE 3D: powering the next era of advanced packaging",
+      "source": "Lam Research",
+      "date": "2026-07-21",
+      "url": "https://newsroom.lamresearch.com/blog?keywords=advanced+packaging",
+      "tags": [
+        "Advanced Packaging",
+        "Equipment",
+        "Technology"
+      ],
+      "companies": [
+        "Lam Research"
+      ],
+      "summary": "Lam highlights electrochemical deposition for precision copper plating in advanced 3D packages.",
+      "why": "Dense vertical interconnects require highly controlled copper deposition. Packaging is becoming a front-line scaling technology as AI chips grow beyond what a single reticle-sized die can economically provide."
+    },
+    {
+      "title": "Advanced packaging for AI: the future of semiconductor scaling",
+      "source": "Lam Research",
+      "date": "2026-07-09",
+      "url": "https://newsroom.lamresearch.com/advanced-packaging-for-ai-semiconductor-scaling",
+      "tags": [
+        "Advanced Packaging",
+        "AI & Compute",
+        "Technology"
+      ],
+      "companies": [
+        "Lam Research"
+      ],
+      "summary": "Lam explains why packaging has become central to scaling AI compute, memory bandwidth and energy efficiency.",
+      "why": "Traditional transistor scaling alone cannot deliver all the performance AI systems need. Chiplets, HBM and advanced interconnects increasingly determine system-level performance and power."
+    }
+  ],
+  "companies": [
+    "Lam Research",
+    "Applied Materials",
+    "ASML",
+    "KLA",
+    "Tokyo Electron",
+    "TSMC",
+    "Samsung",
+    "Intel",
+    "NVIDIA",
+    "AMD",
+    "Micron",
+    "SK hynix",
+    "imec",
+    "Kioxia"
+  ],
+  "sources": [
+    {
+      "name": "Lam Research Newsroom",
+      "type": "First-party",
+      "focus": "Equipment, process technology, packaging",
+      "url": "https://newsroom.lamresearch.com/"
+    },
+    {
+      "name": "Applied Materials Newsroom",
+      "type": "First-party",
+      "focus": "Materials engineering, equipment, AI scaling",
+      "url": "https://www.appliedmaterials.com/us/en/newsroom.html"
+    },
+    {
+      "name": "ASML News",
+      "type": "First-party",
+      "focus": "Lithography, EUV, High-NA EUV",
+      "url": "https://www.asml.com/en/news"
+    },
+    {
+      "name": "KLA Newsroom",
+      "type": "First-party",
+      "focus": "Process control, metrology, inspection",
+      "url": "https://ir.kla.com/news-events/press-releases"
+    },
+    {
+      "name": "TSMC",
+      "type": "First-party",
+      "focus": "Foundry, process nodes, packaging",
+      "url": "https://pr.tsmc.com/english/news"
+    },
+    {
+      "name": "NVIDIA Newsroom",
+      "type": "First-party",
+      "focus": "AI accelerators, systems, networking",
+      "url": "https://nvidianews.nvidia.com/"
+    },
+    {
+      "name": "imec",
+      "type": "Research",
+      "focus": "Semiconductor R&D and roadmaps",
+      "url": "https://www.imec-int.com/en/press"
+    },
+    {
+      "name": "SEMI",
+      "type": "Industry",
+      "focus": "Manufacturing, fabs, equipment, policy",
+      "url": "https://www.semi.org/en/news-resources"
+    },
+    {
+      "name": "SemiAnalysis",
+      "type": "Analysis",
+      "focus": "AI infrastructure and semiconductor analysis",
+      "url": "https://semianalysis.com/"
+    },
+    {
+      "name": "Asianometry",
+      "type": "Analysis & education",
+      "focus": "Semiconductor industry, technology and history",
+      "url": "https://www.asianometry.com/"
+    },
+    {
+      "name": "Semiconductor Engineering",
+      "type": "Industry",
+      "focus": "Design, manufacturing, packaging, process",
+      "url": "https://semiengineering.com/"
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "News",
+      "focus": "Companies, markets, supply chain and policy",
+      "url": "https://www.reuters.com/technology/"
+    }
+  ]
+}

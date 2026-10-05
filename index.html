@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Semi & AI Radar</title>
+  <meta name="description" content="A readable daily dashboard for semiconductor and AI technology news, research and company updates.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#">Semi<span>&</span>AI Radar</a>
+  <div class="top-actions">
+    <span id="updated" class="updated">Loading latest update…</span>
+    <button id="themeBtn" class="icon-btn" aria-label="Toggle dark mode">◐</button>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <p class="eyebrow">SEMICONDUCTOR + AI INTELLIGENCE</p>
+    <h1>Know what changed.<br><em>Understand why it matters.</em></h1>
+    <p class="dek">A calm, daily view of chip manufacturing, AI compute, equipment, packaging, memory, research and the companies shaping them.</p>
+    <div class="hero-stats">
+      <div><b id="storyCount">—</b><span>stories</span></div>
+      <div><b id="sourceCount">—</b><span>sources</span></div>
+      <div><b id="companyCount">—</b><span>companies tracked</span></div>
+    </div>
+  </section>
+
+  <nav class="tabs" aria-label="Views">
+    <button class="tab active" data-view="latest">Latest</button>
+    <button class="tab" data-view="companies">Companies</button>
+    <button class="tab" data-view="research">Research</button>
+    <button class="tab" data-view="sources">Sources</button>
+  </nav>
+
+  <section id="latestView" class="view">
+    <div class="briefing-head">
+      <div>
+        <p class="eyebrow">TODAY'S BRIEFING</p>
+        <h2>The signal, without the noise.</h2>
+      </div>
+      <div class="controls">
+        <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search stories, companies, technology…"></label>
+        <select id="sort" aria-label="Sort stories"><option value="new">Newest first</option><option value="source">By source</option></select>
+      </div>
+    </div>
+    <div id="topics" class="chips"></div>
+    <div class="layout">
+      <div>
+        <div id="featured"></div>
+        <div id="feed" class="feed"></div>
+        <button id="moreBtn" class="more">Show more</button>
+      </div>
+      <aside>
+        <div class="aside-block">
+          <p class="eyebrow">FOLLOW THE STACK</p>
+          <div id="stack" class="stack"></div>
+        </div>
+        <div class="aside-block">
+          <p class="eyebrow">QUICK COMPANY VIEW</p>
+          <div id="quickCompanies" class="company-links"></div>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="companiesView" class="view hidden">
+    <p class="eyebrow">COMPANIES</p><h2>Follow the companies shaping the stack.</h2>
+    <p class="section-intro">Select a company to see its own updates plus relevant industry coverage.</p>
+    <div id="companyGrid" class="company-grid"></div>
+    <div id="companyStories" class="feed"></div>
+  </section>
+
+  <section id="researchView" class="view hidden">
+    <p class="eyebrow">RESEARCH & TECHNICAL</p><h2>Go deeper than the headlines.</h2>
+    <p class="section-intro">Technical articles, research, process technology and papers are kept separate from the daily news stream.</p>
+    <div id="researchFeed" class="feed"></div>
+  </section>
+
+  <section id="sourcesView" class="view hidden">
+    <p class="eyebrow">SOURCES</p><h2>Where the radar looks.</h2>
+    <p class="section-intro">A mixture of first-party company newsrooms, specialist semiconductor analysis and high-quality industry sources.</p>
+    <div id="sourceGrid" class="source-grid"></div>
+  </section>
+</main>
+<footer>Built as a reading dashboard. Headlines and links belong to their original publishers. Always verify critical information at source.</footer>
+<script src="app.js"></script>
+</body></html>

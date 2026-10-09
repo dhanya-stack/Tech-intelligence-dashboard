@@ -1,6 +1,80 @@
 {
-  "updated_at": "2026-10-08T07:56:05.803537+00:00",
+  "updated_at": "2026-10-09T07:55:32.052692+00:00",
   "stories": [
+    {
+      "title": "TSMC: Global Chip Demand Shows No Signs Of Slowing",
+      "source": "Seeking Alpha",
+      "date": "2026-10-08T13:28:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMl9zMUktMVRvbld2eUF5SDlONmNHOGZOeVJVR1hRNnV2SHpHSHFIcGdNM01oR2VDel9BTnZLLXVzdVBHclJmbEZoN2ZxLXRnMGl1U0JtRG5XNVZuQnFrUjFGV2NPbHZleUFIaW9nSDdLTm85akhMOUFTNFJEVl9xSHkyYnZoMktfVVF5WUg1TEJJLUkt?oc=5",
+      "tags": [
+        "Foundries"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "summary": "",
+      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
+    },
+    {
+      "title": "Samsung’s $80B Quarterly Profit Tops Nvidia, AMD’s Lisa Su Shops In Seoul",
+      "source": "TradingView",
+      "date": "2026-10-08T12:34:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVDlacVFRRlJpVl9RdEpUdWxQbmV3TjFmcnVYNWZ3TVY1LWdhUGJRNjBreHZVSWtfSUZhcVhnVmxMSWhlSGNRUWhpR3owVUNIVVdMek1EM0tESzRONzFLcnhHNVdFZTRPMEZNUVNsRTN6M1dUSWZrNFl4b0V6dmF3R3hLN3VhY3lxM2RQRXljV0M0U2pzc0RYdlRwcHhSSFQ4dnN4aHVqRDcxN2gtRXBnQ1pVbUNKZ3h0SkZuNTFNUDVUVWR3OXNNellB?oc=5",
+      "tags": [
+        "AI & Compute",
+        "Foundries"
+      ],
+      "companies": [
+        "Samsung",
+        "NVIDIA",
+        "AMD"
+      ],
+      "summary": "",
+      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
+    },
+    {
+      "title": "Lam Research Ships 15,000th Semiconductor Equipment Chamber in South Korea",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "date": "2026-10-08T09:51:49+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NWjRaV0tGM3JCWHdfdlowOThLcXNPU2tfZ0RTeFRZdzFvV0FnUHhhZmwyRTJLd0hZQ3huNUVYUjVVTnRnaDFmTEp0SGRXazFQeUJ0amZ6aEZ4cHhfSVFXOUdOUHAxZDQ?oc=5",
+      "tags": [
+        "Equipment",
+        "Research"
+      ],
+      "companies": [
+        "Lam Research"
+      ],
+      "summary": "",
+      "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
+    },
+    {
+      "title": "AMD plans to ramp up CPU and GPU supply in 2027",
+      "source": "Global Sources",
+      "date": "2026-10-08T08:21:50+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRm95MDkwTDZobC1ObGdOUld1N3ZNQWN4Vnk5dGZLaDNPckI2LWVyU3pzcmliN0FoUkpXUEYtb1dhMXF0VmVyMGg4ZWxGMlpFUlZpNEdsQUdoUVVsZzgzNmZVQlRsZFBteVRqMkVDeWJmRFhvQWVKVjIzWDRrRjgzMkRuUlBmZ0hHUmVLenV0V0RVeUhwSnpwakhtbUdLRDFJaWg3TTRLT0t3dDlrMnc5LURJN3Y?oc=5",
+      "tags": [
+        "AI & Compute"
+      ],
+      "companies": [
+        "AMD"
+      ],
+      "summary": "",
+      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
+    },
+    {
+      "title": "Semiconductor Manufacturing Equipment Market Size Worth USD 211.29 Billion By 2034 | CAGR: 7.6%",
+      "source": "Electronics Media",
+      "date": "2026-10-08T07:47:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2FTWjZEd1hEWWh0R3lJNXhJUHVCWHdwenBzWldZdjRqUTJfM0Yxemw5V0hraG5mX0hZSk5DOEdVWTNXRWN3RkJjaTFXWDZKeWRaRVc1LWlzWmhidlZka0J5dEltV0pjel80aWVZM2l5WmxXUUJxRndPZzVfeC0wYkFEQWhabjhHWFc3eTRNT1c4Q01B?oc=5",
+      "tags": [
+        "Equipment",
+        "Manufacturing",
+        "Business"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
+    },
     {
       "title": "BE Semiconductor: Buy The HBM Opportunity Before The Orders Arrive (OTCMKTS:BESIY)",
       "source": "Seeking Alpha",
@@ -61,6 +135,18 @@
       ],
       "summary": "",
       "why": "Advanced packaging is becoming a primary scaling lever for AI, connecting logic and high-bandwidth memory while attacking bandwidth, latency and power bottlenecks."
+    },
+    {
+      "title": "Asia Today: AI, Semiconductors, Cloud, Infrastructure & Mobility",
+      "source": "Asia Business Outlook",
+      "date": "2026-10-07T22:33:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXk5UTFKYVVVVXdLa1J0NUp3QWV3QXpFMDNEM1BxQko0QTdiWjQzWlc2MU9GZmFzR3AyZkNkSm1qS01rbWxkUU5WQ1ZWVEplZUExZENtcEgzYzl2RndLa0JuemI5b1FqZkFRTnFjdkdDZmpEMER2V19XX05OUzE3OHhvRDdIQ3M0Y2ZLVGVIRjd4WGJYbHItSHpHN3JGNFZfMHpxYXAtVjQtLVY1cHhtc0RIZnVPSy0yc2tV?oc=5",
+      "tags": [
+        "Semiconductor"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
     },
     {
       "title": "Musk Ends Terafab Uncertainty: Intel Runs Fab, TSMC Limited to Sublease",
@@ -255,6 +341,33 @@
       "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
     },
     {
+      "title": "Can Intel Challenge TSMC? Opportunities and Risks Behind 18A Mass Production",
+      "source": "TradingKey",
+      "date": "2026-10-07T04:07:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdm1oSVdWQlA1UUxyb3l2Sjdya1djMWxIdlRfLWVVRFR3d2dkakJGdzRwZjlMY29USjlURkRJYVo5WlFrY21pS3U4YTdZQUZVLWl1SjdRcmRLR0FQY3cwMk8zTlhNMF9yYUdoN3Bza2ZEMko2Snp3MTR6OTJuY2llTHVIbjlPRHhrcHBMWDhzd0h5cmpTbkp6TnBFVmNtVFFwU1FINg?oc=5",
+      "tags": [
+        "Foundries"
+      ],
+      "companies": [
+        "TSMC",
+        "Intel"
+      ],
+      "summary": "",
+      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
+    },
+    {
+      "title": "CMP Polishing Pads Market To 2035: Advanced Node Demand Drives Growth - News and Statistics",
+      "source": "IndexBox",
+      "date": "2026-10-07T00:41:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWk0NFBpQkEtUjI3b1JxaVFCNkNPcFZiSUVta0JCZ0NJRzRyLV9QWkZhb0o1R1g0ZGcxWVJmTmZEak9WbFJOcm1OWUMySGl0Y3ExTzQ1bTA1WDI4anBfR0g2MjlqX25oNGJmblB6a2pIZkg2TTF5dU00WTllRHFMX3BYLTJJSEViNkRROTRpS2xMd2Y3emdGOEhoT0tRQVQwb0NtRXJiTVdfTHc?oc=5",
+      "tags": [
+        "Business"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
+    },
+    {
       "title": "USA Semiconductor Foundry Market - Strategic Insights and Forecasts, 2026-2031 | AI, Automotive, and Domestic Fab Investments Drive Growth to $23.9 Billion at a 7.8% CAGR",
       "source": "Supply Chain Digital",
       "date": "2026-10-07T00:17:58+00:00",
@@ -293,6 +406,20 @@
       "companies": [],
       "summary": "",
       "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
+    },
+    {
+      "title": "AMD CEO Lisa Su Sounds Alarm as AI Chip Demand Surges",
+      "source": "TradingView",
+      "date": "2026-10-06T16:21:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3RIbjBIY2hRZ2F1c2pWR0ZuV2YwcUdBWEZUTjdXSDl3NGFJZ2ZRQTIzQ1puVGVzMExwYWpXOXUxdXpQc05Jd1hpclBCS2ZzZXNNbVNyREVwYVlxcl9iY0E1MWhFelpxZTZKYUoxUF9qUzFKZFdNUi10RmR6emhMUXByWVRGRS1XMDBxQ1RKeDR1VlNxY2FIclFxUGdxTWs1VUhpU2tyZHZISThOdURTck1YOA?oc=5",
+      "tags": [
+        "AI & Compute"
+      ],
+      "companies": [
+        "AMD"
+      ],
+      "summary": "",
+      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
     },
     {
       "title": "Nvidia Hits Record as Marvell and AMD Join the AI Chip Rally",
@@ -363,6 +490,20 @@
       "companies": [],
       "summary": "",
       "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
+    },
+    {
+      "title": "Semiconductor Advanced Packaging Equipment Market Size, 2034",
+      "source": "Fortune Business Insights",
+      "date": "2026-10-06T09:50:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmxCVW5qZm1PdUJYWWx2SjlNMFVQSDV6d0ZTSFJ2TWpOS001T09yMFphQlVRN0xlZjFkVDBqZHpiaVdtZTRDRnFIaEZNLWp1VEE3M3E5VVpZaVRHYlI0M1l2UnJ0X1JBUDREM3k3dnRHTWI5T0NDekxmLThlclZ1N09tQUtSVzNudy1yOURLeXhXUVlVWEx0bFVVSUQ?oc=5",
+      "tags": [
+        "Advanced Packaging",
+        "Equipment",
+        "Business"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "Advanced packaging is becoming a primary scaling lever for AI, connecting logic and high-bandwidth memory while attacking bandwidth, latency and power bottlenecks."
     },
     {
       "title": "Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy",
@@ -555,6 +696,18 @@
       "companies": [],
       "summary": "",
       "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
+    },
+    {
+      "title": "Russian firm completes country's first 130nm-capable chipmaking tool, trails modern equipment by 25 years — despite debut, realistic volume production unlikely before 2029",
+      "source": "Tom's Hardware",
+      "date": "2026-10-05T10:50:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQm1ZWG1mY18xV3dwWUExY0FoZkFLbWEzUXdtektZcHJjRVpPVmpEUmFsYlVCUzNRRGl3OGhxeW45SzBxdzBta29EWVRnb3NRYzdNcGFhTnFYQndTSnRORjlRVTBjcjJ0S21PWGNRMllNTG5NZ1FtekxFMjdDTDFGRkp2THNjejBWRml1OWlpQWVUXzhTajdQc2FOUS04Vy1XR0hsQ3JvYjJZdDh5dDhsdEVYQk1hSFVBSjNmNE1fTWE4WU1LaVlnUGxfWGg0cTd5SHlFd0ZOeHhka2tCc3pyMk52bnhpSUI4NEFKMUNSaGM5OE4xbXo2bE1B?oc=5",
+      "tags": [
+        "Equipment"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
     },
     {
       "title": "The Best AI Stocks to Buy Now",
@@ -834,6 +987,23 @@
       ],
       "summary": "",
       "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
+    },
+    {
+      "title": "AI Chip Rally Broadens as Micron's Outlook, Lower Yields Lift Nvidia, AMD and Peers",
+      "source": "BigGo Finance",
+      "date": "2026-10-02T18:34:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96bS1WbUVMM3VreHA2ZE53UUQtV0JFaGViakdDUk50YURXOGVONUVndW4tY3FvYmZrUWpicHZoNWVscVZ1dG1VdU1xeEM2akctQXBCV3hEb0RXLXhaZkpWRHZmLUpiU3dfQTdUY1pfUTdWZEE5TWc?oc=5",
+      "tags": [
+        "Memory",
+        "AI & Compute"
+      ],
+      "companies": [
+        "NVIDIA",
+        "AMD",
+        "Micron"
+      ],
+      "summary": "",
+      "why": "AI accelerators are increasingly memory-bound, so HBM/DRAM/NAND capacity, architecture and process advances can materially affect system performance and the semiconductor equipment cycle."
     },
     {
       "title": "Broadcom vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
@@ -1225,6 +1395,20 @@
       "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
     },
     {
+      "title": "AI Demand Lifts Entire Semiconductor Ecosystem… Q2 Foundry 2.0 Revenue Surges 25%",
+      "source": "BigGo Finance",
+      "date": "2026-09-30T09:55:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qUmhQdHY2UERVM0lIYnNxNGdaVVIyLURTaXYya2FkWFlyRjhSR1IyS2hDd0JDTEpPT2tuN2pkNDFIbmlJSTNtS1d5VjJRb0E5ZW12NUhfTXRuZ3dJNmx6YkFiSVc0YXJFQzd4NXBqSktiZlNFQ1E?oc=5",
+      "tags": [
+        "AI & Compute",
+        "Foundries",
+        "Business"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
+    },
+    {
       "title": "AI Drives Larger, Denser Packaging, Raising New Challenges for Equipment Makers",
       "source": "EE Times",
       "date": "2026-09-30T08:56:57+00:00",
@@ -1434,6 +1618,20 @@
       "why": "Advanced packaging is becoming a primary scaling lever for AI, connecting logic and high-bandwidth memory while attacking bandwidth, latency and power bottlenecks."
     },
     {
+      "title": "Beyond 16 layers: HBM stacks test advanced packaging equipment makers",
+      "source": "digitimes",
+      "date": "2026-09-29T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaktGd2RLcWducV9PUmNVd3BoQ1VpSmFIMENBWDVfTkk2bW9mRTRiRFlJM1VaLTc2THhuWGxWbnY0RTltYkJ1ZEtJTFhwSmp0OGJzelBSUjcxODF0UEdFRlBTN1ZOQksyMHlrWlZaUGpzYkVnMFdHb0lCX1E3VE50bktuRUU1N094NW5HWG5YcmdmUEU?oc=5",
+      "tags": [
+        "Advanced Packaging",
+        "Memory",
+        "Equipment"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "Advanced packaging is becoming a primary scaling lever for AI, connecting logic and high-bandwidth memory while attacking bandwidth, latency and power bottlenecks."
+    },
+    {
       "title": "Samsung's 2nm Yield Approaches 60%, Leveraging Tesla Orders to Challenge TSMC",
       "source": "finance.biggo.com",
       "date": "2026-09-29T04:05:00+00:00",
@@ -1477,203 +1675,6 @@
       ],
       "summary": "A new collaboration at Applied's EPIC Center focuses on next-generation memory process innovation.",
       "why": "AI growth is pulling memory technology forward alongside logic. Equipment/process co-development can shorten the path from new memory structures to high-volume manufacturing."
-    },
-    {
-      "title": "Transfer Switch Systems Market To 2035: Data Center and Grid Modernization Drive Growth - News and Statistics",
-      "source": "IndexBox",
-      "date": "2026-09-28T23:26:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa1Jjd2RKVWZ4QzVBTFNEWjl2LTdKd0VCaGMzajc2eWxTclFfUGRPWHN0UkNJVmVuMlg4eUpsT1dXLTFtampVMTEzbVNFdmVULVdNOV9pMHVIWER3aklhakJ3Y25FSmhEVmpBS2hMVEYxRUotT2IzMDgxSUFzZzVldjJOREVnVzJVZk9BcHhuWE9qYmNsalkyaVFCTnhRNXRYUWF1a3hiUU5OYUR4T3dYV2JDa1k4X2tyU3BVNjd4UHA1UUF2NUg1NXdJZEM0Mk5VdGxzcDFlS2o?oc=5",
-      "tags": [
-        "Business"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
-    },
-    {
-      "title": "Samsung nears 60% 2nm yield, targets big tech with Tesla springboard - CHOSUNBIZ",
-      "source": "Chosunbiz",
-      "date": "2026-09-28T21:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SS1FnU3hnNHlldDFPNVpETDhSSWlaSnJqdlp1T2loZzBlLXZoT0ROdjRMaUtTWWFmWk0tc0tVb2F4U29yOE5zQU5fNFpXX3BpTzBHNzZLbk1tbEdGcXAyT2FCR1pvdkNmVUlWYWFOUVNhdlh6SG9rX0tn0gGOAUFVX3lxTFBmMHlicHNSc1R6M3FYaDdSWWlwVTRNcmlralRIMkRzOGwtYk1CcmZCdU5ReEtoMWpOeEZMaklyNG1qdEhJamVhY3BFbDFBaVFSdVdlTVpMYmhmUURha1dnOWdKbXBfTi1mT1lpdFoxcXdLSnhjVXdnWWNtbVQtZGFqQUs4Y3BWTnZRQWY3VHc?oc=5",
-      "tags": [
-        "Foundries"
-      ],
-      "companies": [
-        "Samsung"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "Intel 14A Spec Math Points to Performance Lead Over TSMC A14; Investors Hear Parity",
-      "source": "Tech Times",
-      "date": "2026-09-28T14:49:34+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSkdWTWVXcU9YSXRUVGFoOElMLXplSGxUQ3k3LXRscW9BQzF3dXhTN1UwaUk0Q19zejMxNU5aQ3ZaVkxac1JkclN3ZlExMTA1RXVaWkVLVjFYcTdVNVlfNkdhYlUyZllOVWc0MEY4ZVJ2QWxsby1xLW9lekNlQjlKSmluRFdDcHQwY181QzJsWDEwT09RRXlMWGxMcjhTQnJQRFpTeFVKS05SdW5KNW5xeDBBVHJVMXlaMGg3N0haTEV6Z2Z2VUlRYjc5bFV0eU0?oc=5",
-      "tags": [
-        "Foundries"
-      ],
-      "companies": [
-        "TSMC",
-        "Intel"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "Intel 14A: Apple, Nvidia & 6 More Chip Giants Evaluate",
-      "source": "tech-insider.org",
-      "date": "2026-09-27T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uWHFMOUtlNkVMeU1Md294NjdjTERuWmRCRXRIUlAyb1JqeU1LQ2Q4dGppaXV3OW1KVlg0cnF0TWVMZ0tSMlVRWDc5dmV5UG5neXZMWkptaVc0NFFfU0VXNTJZUFZaVzFzQmF3Nkw2MEZ1RTJfSnJnTA?oc=5",
-      "tags": [
-        "AI & Compute",
-        "Foundries"
-      ],
-      "companies": [
-        "Intel",
-        "NVIDIA"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "Catching Defective Chips Alone Can Make a Company Hot... Semiconductor Inspection Equipment Firms See Their Valuations Rise [Semiconductor Plus]",
-      "source": "매일경제",
-      "date": "2026-09-27T01:49:48+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Nd3FqWG1ybEFLaC1tSmsxQWNBZ0pYUkNSMFk3UkdIUUFmcE12RjlmYVVZYnAyME1EbG9Nbl9BTTVvTk95OWxWaU1kYzl3OC04U2Iw?oc=5",
-      "tags": [
-        "Equipment"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
-    },
-    {
-      "title": "Intel Claims 14A Within 5% of TSMC's A14, but Media Questions Whether Figures Are Too Conservative",
-      "source": "finance.biggo.com",
-      "date": "2026-09-26T12:25:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DMTJaYUVlM190NVdENDdGWngxemVrdkZIcjA3emVsZEVVRFpRZG9WallwbDdSaF94OVFMM0l1bmlpczcwNkI3bF9OTGdYMkxlNWtrS1V4ci1RenlRTlp0ZXNTRDF2NlNkWks4dERkbTNkTktCMUE?oc=5",
-      "tags": [
-        "Foundries"
-      ],
-      "companies": [
-        "TSMC",
-        "Intel"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "Intel Panther Lake Teardown",
-      "source": "SemiAnalysis",
-      "date": "2026-09-26T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OYmlUM0NJeWwtOExoRElrZ1BPd1dkV3lSalF3VDF4eGJIT1JqclF0dGNaeTdEd1Q1Y29ZN2ZBc1IxQk1MXzRlamc0NjF5SFQtcW9SSlJDTkNHNTRTT0JoYTZQdDV5eDBKNmVBaDFESF9tTVk?oc=5",
-      "tags": [
-        "Foundries"
-      ],
-      "companies": [
-        "Intel"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "Heterogeneous Chip Integration Tools Market Size, Share & Forecast 2036",
-      "source": "Fact.MR",
-      "date": "2026-09-25T13:34:52+00:00",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPNnREeTVnYU8yTXJFalV0R1NkQ1NISnEzSTlYQVZsNGNFQWxTMHNkR3d3WFJoQ2ZBLVctWnN3QU5keG5hM3V1WGdWQzdMN3A1YzdQbWQwNExKSzBKZERHWWIwQzl6SVZjMmxOV1Z3YjVaTF9YNV9iODBEZ1g4UQ?oc=5",
-      "tags": [
-        "Business"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
-    },
-    {
-      "title": "Will Dragonfly G5 Momentum Sustain ONTO's Growth Engine?",
-      "source": "The Globe and Mail",
-      "date": "2026-09-25T13:10:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd1pqcTgxdHVsODNOanR2b2l4TFl4SGNhNDE1ZFp0Ni16MGZNS3ViN3hKMVBBdkxvOGgtUnI5a29yVkR2cHpTLWdQc0ZqLXFPZUQ0RWhhMDlLZFpncHhBUTBpUm9zYWdLSGNQWXBXdzNfTHFFZGpjQUkweFltRmYwM3RXdkVIeHA3cl9sYTlYc1dVN0VOa1MtSnkycFFBMDNmLWstbV9Ha25PVTQ3R2MxNDkwcnFuTy1Bako0QW1SOXRRX1Rmb3pBS19rakw3Qy1UaXNzNnZ3?oc=5",
-      "tags": [
-        "Semiconductor"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
-    },
-    {
-      "title": "Ranked: Semiconductor Manufacturers by Global Foundry Revenue",
-      "source": "The Motley Fool",
-      "date": "2026-09-25T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uWTZPTjBOZk1CRjRwd2tJNXVJR0hnY1l6cFRfYnhNdWpfS19tSEkyNDU2MmdFVklnQ3dDeHo3aUE0cUxqTmFEQnZWZEQySms2UHFuTHNSSVY0QmFRaUI3dFRoT3FlV2tKWXd6OEhrNE1YUmxTaDE4OQ?oc=5",
-      "tags": [
-        "Foundries",
-        "Manufacturing",
-        "Business"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "Intel expects 14A to be 'within 5%' the performance of TSMC's A14 — conservative forecast clashes with 18A's frequency lead and promised 20% gains",
-      "source": "Tom's Hardware",
-      "date": "2026-09-25T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNSzhVaTI2ZzdMVC1qc2xWWHNJd2FadUlZOWdlRFQ3NjluT2hBeGFiQzQwOUd6bmdFNkN0NnliSDlJdmZGSzhPUW5PRkcxSENoZWlDbFpTTWdrMUZHWE9iRFViV0NPaHZmSWNybG5Fb1U2VzlhN1NWYTBxeU00VnB4VFFyX0pqaHExVFdSUlcxTVFGb0czMGRhSC0tcGNGV2MxN3NLUXdyMm9mYnRsWFNfUjMxUlQwblFBZmpmX2ZNWVA4R0hLeFN5TWN2dHpkaUdHTFIwcjVuMFhYOVozN0R2VFV2d2w5T2tKYnhuWXFSTTNETkhFLVBBLW9idUJ3SDVNTndvQWFnWUNMNm1VNUdQVWNqWVVwNVdiZEN6SHhrWWlUOEt1TzdWMzlyV1N4RklqRl96ZkV2WQ?oc=5",
-      "tags": [
-        "Foundries"
-      ],
-      "companies": [
-        "TSMC",
-        "Intel"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "TSMC Sets 2027 Chip Price Floor at 3-6%: AI Orders Could Pay Triple That",
-      "source": "Tech Times",
-      "date": "2026-09-24T13:15:53+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2daUVhrLUVSOG1zOW15bmRWbWRXem9CTURqV25XQkZ1QWRFWUNKMVRZYzZBTlNNV2JHMlNCZG9hT05fdEktZjRjTDUzOFk2NERrY3dlWjRxTUQ3X2tRUXNSUHpRT3dXMHZJSi1YYkhUY0NYMXR1R3NscGpvZWFaNkJBRThsQVpJZUUtSjNNUk51UDNwVUtwZTVYZVg0TUUzVlI2VGtvMmlHSzNYZGp0Q18zNVZZQUJscUxfaDNCZw?oc=5",
-      "tags": [
-        "AI & Compute",
-        "Foundries"
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "Scaling next-generation 3D NAND with high-precision selective removal",
-      "source": "Applied Materials",
-      "date": "2026-09-24",
-      "url": "https://www.appliedmaterials.com/us/en/newsroom.html",
-      "tags": [
-        "Memory",
-        "Manufacturing",
-        "Equipment",
-        "Technology"
-      ],
-      "companies": [
-        "Applied Materials"
-      ],
-      "summary": "Applied describes selective-removal process technology aimed at increasingly complex 3D NAND structures.",
-      "why": "As NAND stacks become taller and more complex, process selectivity and profile control become harder. New removal techniques can help preserve critical structures while enabling further vertical scaling."
-    },
-    {
-      "title": "TSMC reportedly to raise foundry prices 3%-6% from January 2027, with advanced nodes leading the increase",
-      "source": "finance.biggo.com",
-      "date": "2026-09-23T21:35:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJQUl4Q1B1MEhITko1bnA3dkpDZ05pNVJPR2FTc3cxSFFkM0RoeUpUX1k2UzQzZzdOZG1JM1NxaGVlcDZzTlBYblAxbEpnaHZ3U3hrUEZ4VXc3T3BvTDRMZGFkZlp4V1Bldmp5M0xobUVVbHNGb2c?oc=5",
-      "tags": [
-        "Foundries"
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
     }
   ],
   "companies": [

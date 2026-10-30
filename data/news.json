@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-10-29T07:36:41.962562+00:00",
+  "updated_at": "2026-10-30T07:40:27.201907+00:00",
   "stories": [
+    {
+      "title": "TSMC Co-COO Y.P. Chyn Says Longer Hours Don’t Improve R&D, Recalling The Company’s 24-Hour “Night Owl” Program That Failed In Just 6 Months",
+      "source": "Wccftech",
+      "date": "2026-10-30T01:59:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMF9WeXZMQllydkRQWi1iUENyNllITWVDT3lzcHJ5eWpScjRnTWlPejYxNGZxTXppZXVqUzlrWExWcmgza0g2OGVKMm5KWXBYYU9vV0tja3dBd2lrYnlLSXZISDVkUlJmWXBDRFV0Tjg1SVVrLWtJc2JJdXA5M1ZLNFpVNi1WdktRbWxDaHRBQ25QR0wxZm1mcm5NQ1_SAZwBQVVfeXFMTzBfVnl2TEJZcnZEUFotYlBDcjZZSE1lQ095c3ByeXlqUnI0Z01pT3o2MTRmcU16aWV1alM5a1hMVnJoM2tINjhlSjJuSllwWGFPb1dLY2t3QXdpa2J5S0l2SEg1ZFJSZllwQ0RVdE44NUlVay1rSXNiSXVwOTNWSzRaVTYtVnZLUW1sQ2h0QUNuUEdMMWZtZnJuTUNf?oc=5",
+      "tags": [
+        "Foundries"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "summary": "",
+      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
+    },
+    {
+      "title": "FuriosaAI raises $620 mn in Series D at $2.9 bn valuation to scale AI chips",
+      "source": "Beinsure",
+      "date": "2026-10-30T00:24:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pYmhQdGpLbXZHdzNoREZ5Q19Fb3h5c3JfVTQwOEsydW1BZUw1SDVGU3FOQ0Vmd3I3eC1PbVUtOTlleEIxdjVERFFkUTd3c2ZKX3ZTZWZTZktfY1JWUUJZRGc0TUtkX1h6TlFWMmdR?oc=5",
+      "tags": [
+        "AI & Compute"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
+    },
+    {
+      "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid",
+      "source": "The Globe and Mail",
+      "date": "2026-10-30T00:15:22+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbF9KRmM0RVlJbFdYQnFmN0Q3WHhEQWJYaWhoS25tQ0xaQ25Sd3FvYkc1MjFramlhNjhNSTMtZHlpNTRXYXQxWXpYUnFRWXFvMmdOOVlXMjZBYjNxbGlkUHc4M0J2ZG1oQUZQa3llUFAzQnRiQ2xfVDRrZWp4QlFHNnRNRU9EMWU4MkMzVlF5YnRMdVN5bndlWFlaNUFvaXduUFdkVVZOMGFBU1NLM3htSEFBZWptNnAxZWFWejlWVU14Xzg1c0tnZjhLMFRvSld0NUhQUnR0ckdVYUlGVV9rRjdBV2RrYmxm?oc=5",
+      "tags": [
+        "AI & Compute"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
+    },
+    {
+      "title": "North Texas Semiconductor Hub Set To Receive $24 Million In Federal Funding",
+      "source": "Local Profile",
+      "date": "2026-10-29T18:30:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSDU4MnJtbF91Uk5DX2FsQjNiNEdHVkplOFY4V3kwRkZSMEFfNGFGUGRvZEdvZlU4NlZOdEprSDd1R2loSVBzRmlkN2FjcDEzRjRzN3gzaVY2dzZ0SHZqdHZiWllGVGtEVWhNNVh6RWpxMS01Ql8wak5lMjg0WnhuQmxEc2pJUkJTU0lIeVlySk93UGxIbkRLMWNnSHNsSHdiRDI2V1RjbnU4NU1vVU1RRF9jVVota0JzdXk4dGpB0gG-AUFVX3lxTFBINTgycm1sX3VSTkNfYWxCM2I0R0dWSmU4VjhXeTBGRlIwQV80YUZQZG9kR29mVTg2Vk50SmtIN3VHaWhJUHNGaWQ3YWNwMTNGNHM3eDNpVjZ3NnRIdmp0dmJaWUZUa0RVaE01WHpFanExLTVCXzBqTmUyODRaeG5CbERzaklSQlNTSUh5WXJKT3dQbEhuREsxY2dIc2xId2JEMjZXVGNudTg1TW9VTVFEX2NVWi1rQnN1eTh0akE?oc=5",
+      "tags": [
+        "Semiconductor"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
+    },
+    {
+      "title": "Prediction: Wall Street’s Next AI Favorite May Not Be Nvidia",
+      "source": "24/7 Wall St.",
+      "date": "2026-10-29T18:03:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHI0SHlPZE5LMGVKcXB6LXExODB4X2tjSXl1djVqQl9pd3Y3aU50SGk4WXkxQnFLdFlCRDJWY2ltSjlVZFFDWEdmak5pT3RJdUo1VXJmQ1hob0FKZVlqS093T2cyWFQwalNMNWhpSU1UQ0FrM2NNUjNhdDZTQlBJQURCTElDTHFnMW9tWTdqZkszSWVKRXFVNkllWVJEeVdCaGlMVg?oc=5",
+      "tags": [
+        "AI & Compute"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "summary": "",
+      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
+    },
+    {
+      "title": "UC San Diego and TSMC launch semiconductor cleanroom training programme",
+      "source": "Cleanroom Technology",
+      "date": "2026-10-29T16:14:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNUdCTzFNVTYwazNoa1pKZk1NajBxZVdVZWpGRHpYTlpZTlBRM3ZLS2VtVjNYUFFPTUU2M1ByLWY4b3BSRzZpUFNyUFcxTDBseklnOExGQVJOWjFqUU5WN0o0TkVkVEFBNjhxc0lEc3FQUm50TkVvVDE2VDlhMkV0a0ZXMEk2QjFkOWZwU0RmdmJfdw?oc=5",
+      "tags": [
+        "Foundries"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "summary": "",
+      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
+    },
+    {
+      "title": "South Korea Excels at HBM Production, but Key Materials Are Japanese... 'Validation Barrier' Stalls Localization",
+      "source": "아시아경제",
+      "date": "2026-10-29T09:20:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XWFdCSXNaUDVkNnk2VkNZUktDTVlWYnRrZGE5U1BucHN5QTdrVS0wNnNvYnNKcWh1RENmeTUyT0puUHZSRW9rdzFFUk9SRmJ2bGppTG92XzdqMTQ5OHlRSmk5d3I?oc=5",
+      "tags": [
+        "Memory",
+        "Materials"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "AI accelerators are increasingly memory-bound, so HBM/DRAM/NAND capacity, architecture and process advances can materially affect system performance and the semiconductor equipment cycle."
+    },
     {
       "title": "Micron, AMD and Nvidia Stocks Rise as Memory Chip Boom Lifts AI Trade",
       "source": "TradingView",
@@ -52,6 +143,31 @@
       "source": "The National Law Review",
       "date": "2026-10-28T17:01:57+00:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hMVHFQV2RHbVlyUlJJN3ZkN2tfY0x6dkpSdzVmYnQ0RnJvSEFXaDhkbUdkQk81b3QwVk1XVXFrWkFFX2lIbk90eXFLQk9YYXdaYUpBOG9VQ1dZZTF6YVg0MUlWTlhlcHJjSkU1WFFIS1JyTlVnVENNU3FsWGhtNk0yeS12RHBaZ2hRNWRMU3NTclF0eFF0U3FfS0l1MU5MLTRUcGVENE11ZnFqNGozQUNLR0o?oc=5",
+      "tags": [
+        "Business"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
+    },
+    {
+      "title": "Chip tool maker ASM expects to exceed 2027 sales goal on strong AI demand, CEO says",
+      "source": "Reuters",
+      "date": "2026-10-28T15:52:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTWZPSjA0aVlUUGtBekVOVkNfNm1CdWoxZXc1S3NQejFIVXVTazJKYURBVzJBMFRWTlZaZlRXdkRGeUNWWjJNa2ZvdGJPZkxJN1VRTlVjQlVHeWtOQTF1R3RYV19jZE45dU9BdlRCd3ZXYlBHOEROSmVJY2tWQTZvYVg5UWpYc2pMRXNBMjIta1U3R3J4MXJyYk5zZ0FLNjcySEhBb1RkRk5UZDZoX3h2bmlPZmMzTnBNVjQ0?oc=5",
+      "tags": [
+        "AI & Compute",
+        "Business"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
+    },
+    {
+      "title": "Semiconductor Gases Market Value Expected To Grow At 8.4% CAGR, Reaching $15.2 Billion By 2030",
+      "source": "EIN News",
+      "date": "2026-10-28T15:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNXB0M2JuM3FBZ1MwMlVuTUFocEVIR3ctS2tvYjlSMzRkZkdTeE0weTA2ODdVSjFGSVVCTmlDMjJrUVZvUTVhSnVHS1JyQkZaX20wM2JRNHpaTnczTkttb1BBZElnTi1OSGRoUGhsQ1FVV0QzMkJnX3VyUTJNNGxMZlU2NWlDb254S2x4Mm0yVzRIQW9pVDBUN3FBbnFyUWVoMGx5UVhxY28waE4zOG1sNUZLYWZUM3RVQjNfYm1hT0ZmdDlpNU1oUW00Mi1xZw?oc=5",
       "tags": [
         "Business"
       ],
@@ -317,6 +433,19 @@
       "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
     },
     {
+      "title": "SEMICON Europa 2026 to Spotlight Advanced Packaging and Fab Strategy - News and Statistics",
+      "source": "IndexBox",
+      "date": "2026-10-27T10:13:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2c3dEM0ckk0RWhsY09SNlZPT0o1NmdsSGNHbmpraUFCeFRrMDRKdVFiaDJiaEp6R1pGaG1hWnc4VW1WQmhBQlFMTU9ZUGsycExIZkg5ZGRlSTA1WHltNlFFbzZRS2ZBRnZ0bGJtNThVMElLUG03TnAwdFpmenh6a2JnMzU2aDZkc0JYSDEtWjh3MDVvTXZpZGlR?oc=5",
+      "tags": [
+        "Advanced Packaging",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "Advanced packaging is becoming a primary scaling lever for AI, connecting logic and high-bandwidth memory while attacking bandwidth, latency and power bottlenecks."
+    },
+    {
       "title": "Samsung confirms massive second plant set for Texas boomtown",
       "source": "MySA",
       "date": "2026-10-27T10:08:45+00:00",
@@ -329,6 +458,20 @@
       ],
       "summary": "",
       "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
+    },
+    {
+      "title": "Semiconductor Manufacturing Equipment Market to Reach USD",
+      "source": "openPR.com",
+      "date": "2026-10-27T08:53:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEJmM0gxWmVhSlllbVVGQ19KdjlLV1J5dERrZkUwWWRkbFhwYThmci0wOXAzU0dOcnZHbWFGbVhXN0RaZ1JIbURJTHQtejAybVVTZFVpN3lMWVJmbi1JSmk1SUpUOThZSVZnVF90SXdqTWxSZmxITEtPOHl2c1RjSmJ4ZmwwVVM2cXZiRnJNRy1yd1oyOVNaUQ?oc=5",
+      "tags": [
+        "Equipment",
+        "Manufacturing",
+        "Business"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
     },
     {
       "title": "Will TSMC be the Most Valuable Semiconductor Company?",
@@ -558,6 +701,22 @@
       "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
     },
     {
+      "title": "China’s DFSX DF1000 AI Chip: A 14nm Accelerator Outperforming NVIDIA’s H200 on Memory Bandwidth",
+      "source": "Intelligent Living",
+      "date": "2026-10-26T01:29:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZzktWW9QeHkyV2xDMGRmb2FLUU9aLWt0RF93Y2ZocUJjcWRCN1U1SGFGZGZSLU5hTWJRWkVJLUpkTkRZNEd3VzNhSkgzUzBoMTBBS1drTHRvMUVfTlBIZTJGR0pya2dCVU9SeDZuY0R4YWZLeWtNaDhn?oc=5",
+      "tags": [
+        "Memory",
+        "AI & Compute",
+        "Foundries"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "summary": "",
+      "why": "AI accelerators are increasingly memory-bound, so HBM/DRAM/NAND capacity, architecture and process advances can materially affect system performance and the semiconductor equipment cycle."
+    },
+    {
       "title": "Custom HBM Era Begins as Semiconductor Alliances Accelerate",
       "source": "조선일보",
       "date": "2026-10-25T22:04:50+00:00",
@@ -650,6 +809,18 @@
       "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
     },
     {
+      "title": "As the U.S. Pulls Chip Making Back Home, the Toolmakers Win First",
+      "source": "The Motley Fool",
+      "date": "2026-10-23T16:45:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkhkU091NUZxUXhrR3UxQ0xiTzBCbGhUUXY5RHQ2NzhHMDVnb2F1QW9GWlAwb09WOWlNc2hpN3I2SV8yelFya0FoTkpudFh2U3NUaFd6bnBBLVBCdkMyZ1d1WDlsSW5BYkdhdmtadzNBRzBfck14U2JLZW9PUTNJTTFFSUU3cHJITDh0eGVoVHZIUnExY1E?oc=5",
+      "tags": [
+        "Semiconductor"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
+    },
+    {
       "title": "AMD Stock Price Prediction: One Growth Opportunity Could Push Shares Much Higher",
       "source": "24/7 Wall St.",
       "date": "2026-10-23T15:00:00+00:00",
@@ -700,6 +871,23 @@
       "companies": [],
       "summary": "",
       "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
+    },
+    {
+      "title": "Samsung Orders Equipment For 6,000 More 2nm Wafers A Month At Its Taylor, Texas Fab, Putting 20,000 Within Reach By The Second Half Of 2027",
+      "source": "Wccftech",
+      "date": "2026-10-23T12:26:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY3otcXl1Vklqc3J2aVdyUVEwNWpXNzQyMWE1YjVWYzQzU2QtUzBJSDlyUk1RTWZUN1pZRHVYMk1LanRjV19hVFZrb2lKRV9vNzhWbzBlN1B4U0tpdGM4Y1NZT1N2T0dZNFFqMDZhNXVhV1NodkI3S0ZCenZTMEh4RTlaMUxhQ3dENHBETktuQXpKdTZuNnQ3Tkc3YWJvNGg2c3VFTEo5SzhKV2dob2poWUF4bmQ2UzVVd0g4a1BQMW1IOTV1WGpJVmcwTk11Z3pBVG5FeUhJTkVSdWJZNnUzQVBpZTZ6UlhuM01qdzhn0gHzAUFVX3lxTFBDLThqMzdpVEl5MGNHWU5IX3NQSDdhOEVCRlZkMkl4YmowV2FqZExuOFBISFRNTnBHbU5YTFRIRjI3bzFKd0t3SEQ0ZTZNcWF5MnMwSmpwR293Tk1nZ204a3ZwYnBZZ29QaS1yX19hNmRLSEZaTk12ZFpWLVdhb3RaVkEyczZjcENEVWZIQmJ3X3BDMDFXVE0xMkh0ODVNdmxpWU15S0RXemVGbU9SSFhoSy1PRWM2ZnIyTTZlY0JUN0ZHRGZUZ1pYaGFlOU55MmlYUmVVYTVTQXZXcUxRZVdBQWpwd3lhRnFjZ0psYnNmd2RYQQ?oc=5",
+      "tags": [
+        "Equipment",
+        "Foundries",
+        "Materials",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Samsung"
+      ],
+      "summary": "",
+      "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
     },
     {
       "title": "ASML's Hybrid Bonding Patents Reveal a Carousel Design Aimed at BESI's Turf",
@@ -1487,201 +1675,6 @@
       "companies": [],
       "summary": "",
       "why": "AI accelerators are increasingly memory-bound, so HBM/DRAM/NAND capacity, architecture and process advances can materially affect system performance and the semiconductor equipment cycle."
-    },
-    {
-      "title": "GlobalFoundries Plans Two New Semiconductor Fabs in Malta, NY with $21B in Funding",
-      "source": "ConstructConnect News",
-      "date": "2026-10-20T18:08:34+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFFqcGlOWWQ4Ym9MRC1vWU9sTXE3V0ZxQm8wSTdWOFMtS3ZwZDdiQ0pEXzN0dEFRbEVhVUxQQkhyaEZKSEJYNzZoSml5djNvT0pLMUh2U0xDbzFmRFZGVHNTbXFLNDZSRFMtQ2RuUkswMEQ2N1RSTTZzZTRwemVjNVBGYVAyM0I0QzJWME5zLUFNYWRmYldIYWEzY0FaQjZoZFHSAbIBQVVfeXFMUHVIbmlWajVRVGo2QVhwYWhPQ2xQamZtNGVrOTI2Tjd1c2RrQ0ZuWGhfY0lVcG9OcjlWX2RGeEZtWlhnWGdSZVpCVF82dlVMZmpWVWd6TDZYV3VocS1RdnZlTlFOODJsWGNUVUdDSV93bnltV2E3bFhsQTJhSWNTNkxHUWZZUEtibExyMk00TkxobHc5enVkOEhwNzBrdzdHU1pudG1jc2piZFBDcHJmWmtsdw?oc=5",
-      "tags": [
-        "Manufacturing"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
-    },
-    {
-      "title": "Axcelis Technologies Invests $35 Million in New Semiconductor Equipment Manufacturing Facility in Korea",
-      "source": "citybiz",
-      "date": "2026-10-20T16:46:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDNJVFpab3FaS18wOU04MldSWng4UDV5dTV3UWN4dE9xLXM1emtXNi1iZXNQaTduYVdhNlJEcU9DeWN6N2hmZ0xMdldjcXpWSjFMdlVwSjRoMl91RE4yb3FSbU13NmZMcUZvYWJqSWw4bExLMVhKR0ZoRjdCYmk3M185ZUNKYXQtam9NanZkbl9xSk54RDd6d0JRdEljajB1RmZ6cG5QR0VlM3BjTVFkOU0zQ2FLZzNRNzBqZVFuLXhDQ1FyX3hyY2dNTzdodjkwVzRGV1U2c00?oc=5",
-      "tags": [
-        "Equipment",
-        "Manufacturing"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
-    },
-    {
-      "title": "TSMC expands Taiwan chipmaking capacity with new 3nm fab",
-      "source": "Cleanroom Technology",
-      "date": "2026-10-20T15:32:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdDhlNkZmRU5BOHFFYmVjaXVqOXAyZVpLTWVYdVJWazZaNk1nSW5XZjNFZ2JPNU5nbFNHdEN0bEJGbG9tUkh0emswOVpQb1RkS3BkNGdjSXM3Yk5CYW15b1pVVjVLT080TmJrLVJUNVB1VVdBeWNMc1FEZ3BWcVVzZ1g2al8xMTBqdmhTWg?oc=5",
-      "tags": [
-        "Foundries",
-        "Manufacturing"
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "AMD Stock Price Prediction: Is the AI Chip Opportunity Bigger Than Wall Street Thinks?",
-      "source": "24/7 Wall St.",
-      "date": "2026-10-20T14:30:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZnNCN2xSVHdxQVM1bmpySHJmOXh4U0haZmJ3UW1sd05NMVhqM0p6SWFhV0lmZFJYbWhIQ2VUTWctSHhGc1VZb3VESjQ0a01vekNMRTJTNXdwRE5idm83UlBWTmg5TGJadm9LaFNrNVg0ajcxcHB5TGxGUVpGNEZYVjQ1N1FKZ2lxdkFSUkl2b0dILUtHdmdKVHRSMHJqT2lHUE5fYXRoTy1Kb1d5Yk9ZYTB0QWVKTUo2NHdUQlpnQlI0NWY4V1hz?oc=5",
-      "tags": [
-        "AI & Compute"
-      ],
-      "companies": [
-        "AMD"
-      ],
-      "summary": "",
-      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
-    },
-    {
-      "title": "AMD vs. TSMC: How Much Faster Must AMD’s Cash Flow Grow?",
-      "source": "Yahoo Finance",
-      "date": "2026-10-20T12:40:40+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2Vpc1ZrV2VvazF3S3Nnc3NsOWFDcXZtN1lSaEFkMGJ5MGZfM3JUWUpxOXpNMUVQSGVQR25xWjBnZUVwdFVRZkJwelMtdmZFcHVxcEJ1bDhNNzJQYVhZTTdGOGZYV0Z3NnpGQ0tfcGNmdXpiWDhLN2ttVjg0VHhqZ2JnN1dLR09jZk9VdjVXNjFiQQ?oc=5",
-      "tags": [
-        "AI & Compute",
-        "Foundries"
-      ],
-      "companies": [
-        "TSMC",
-        "AMD"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight?",
-      "source": "TradingView",
-      "date": "2026-10-20T10:13:23+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSG82TDh2X3BPR09iNjdKdUhoM1Vtc0NRNU1yd0ZaeWhBN1hiZWJKSDZoQXdhT1VlVGdzUlZYc3FNNXZqd2xUWEk1UjNsMENHTEN4VnFGMi1RLVR1T2RhaWlLdGVScGhLdVN6bjUzNjlQR3Z0YU5ITnVGZ1BPOXdCSlZOZTZfT2Jnb3k3UjNBbHdaVmdOU2RlLWF3Zl9KdmhkWmVFTHFoWnZ0YmtfMEFOcC0wUks0Q0lQLTdabm04anBfR1NVN3FKRDg4ZWJiQQ?oc=5",
-      "tags": [
-        "AI & Compute",
-        "Foundries",
-        "Business"
-      ],
-      "companies": [
-        "Intel",
-        "NVIDIA",
-        "AMD"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "Musk’s Terafab in Talks With About 10 Korean Chip Suppliers",
-      "source": "THE ELEC, Korea Electronics Industry Media",
-      "date": "2026-10-20T08:47:21+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15UlFqUEYyajQ2NXVzRDI1bVd5ZmpOZlFkUENCcmhNLXoxUFc3SXZJcjk2akt1TF9QTjdlMlJmNjV4Y1VxQ0Q3d25BTmc1aWpBMnhyWGdCb1laVTB1SEs4Rk9ldFg3LTQ?oc=5",
-      "tags": [
-        "Manufacturing"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
-    },
-    {
-      "title": "Chinese Semiconductor Equipment Manufacturers to Strengthen Hybrid Bonding: NAURA, Piotech, and AMEC Launch Offensive in 3D Integration｜Semiconductor Geek",
-      "source": "note",
-      "date": "2026-10-20T08:40:40+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01N3ZaZmxaSTdUdjhXMllLRjlJZVhiMlROWkdDSHRORE9iaDZFdS1VNVFiejhvSktobEluaTQyc0kzMGhSRUJRZEcwNi1xdE82TVpFXzdaVHJFX05PYjRaZDZZU1FDdw?oc=5",
-      "tags": [
-        "Advanced Packaging",
-        "Equipment",
-        "Manufacturing"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "Advanced packaging is becoming a primary scaling lever for AI, connecting logic and high-bandwidth memory while attacking bandwidth, latency and power bottlenecks."
-    },
-    {
-      "title": "Samsung's 4nm Capacity Fully Booked, 5nm Winning Orders, but 2nm Flagship Customer Contract Stalls",
-      "source": "BigGo Finance",
-      "date": "2026-10-20T08:05:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IWU9rOGZzNVdXZlFtekFpZEFRX3VwT2RELWZVb0FfcG9pMGVSaUh1X3VBTGx2T1FPdG9hajlJLVV3WTM0RXpUa1M1Qjl6cjFiOGNhdWlIOXZDNWNSZkttMG12ZjBlMjZjTkZqUE9MZUkyM3M2MkE?oc=5",
-      "tags": [
-        "Foundries"
-      ],
-      "companies": [
-        "Samsung"
-      ],
-      "summary": "",
-      "why": "Foundry capacity and process-node progress determine when new chip architectures can move from design into high-volume manufacturing."
-    },
-    {
-      "title": "Semiconductors 101: Chips, wafers and how they are made",
-      "source": "Singapore Economic Development Board (EDB)",
-      "date": "2026-10-20T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2N1NFh5SVFyVkU5ak9FeExFSWZBUzVoazNlQkNEYXBib3ZOQ1lnVUlVQXFOTEVjUHVTVW5GWlduMXVJcDZsbnpJTXJ2Rk05Q0haTlJNV09xc1dITXlBX19YdXRxdEwydWJUMDhmaTZMM1NOS3J4NGswV2EtR3JMb2JUVEUxTGExZlN5SlRzMjVidXBkVnhjN3B3NjdsQQ?oc=5",
-      "tags": [
-        "Materials"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
-    },
-    {
-      "title": "How Taiwan's New AI Chip Export Controls Could Affect China｜Industry｜2026-10-20｜web only",
-      "source": "天下雜誌",
-      "date": "2026-10-20T02:37:35+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwS3ZCUC1KWlplNWZSNkFCdE5hc0h1X29EbmdLTTRydGlfRXIwaDhVaDgzYndud1FHVldVSHllZEIyWkpSRjNLZGxSa1pGV1RZN0NCV0N1aUpwQk11NWFHdjFqaENLRjg?oc=5",
-      "tags": [
-        "AI & Compute",
-        "Business"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
-    },
-    {
-      "title": "[News] China’s NAURA Targets Hybrid Bonding With RMB 405M Deal as Domestic Equipment Push Accelerates",
-      "source": "TrendForce",
-      "date": "2026-10-20T01:29:33+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUVROYjgtcmNFbTNJNlN1LVhqc0JHTTFLamFTWVl5LUJPMGJTSGc1M1d0azFrQUdoRWdvamZZaU5SQXZ2Z1lZZlRDdkpHMWctMUNNUkpkNDVRYjVycnVYRjF2WDRtMjhYdnJHbXNleDFGa3NFLW04UUIydF9nSWZ1cnlNNjVhNE8xQS1UQUFKRFN5Wm5hQ3hnTmtuVTZEclJEMktMeFRPM19WVGxXUlhRZ05ZeUN4V3Z1VENLQVhWbVRKRDljT09CSF9yYjF0dkJKZW5oaDk2WWxsUQ?oc=5",
-      "tags": [
-        "Advanced Packaging",
-        "Equipment"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "Advanced packaging is becoming a primary scaling lever for AI, connecting logic and high-bandwidth memory while attacking bandwidth, latency and power bottlenecks."
-    },
-    {
-      "title": "Silicon Substrates High-Purity Market To 2035: Power Semiconductor Demand Drives Growth - News and Statistics",
-      "source": "IndexBox",
-      "date": "2026-10-19T23:56:03+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYUxIcEozMTR3ZjI3RVNURTBoZFI5cVlBTTVaRmNaeXJseWI4RUZhakd0VjBlQUE1MjNYYkxSa1dmcmpuZHdpSmtRbVowRGtYUkpxSVpqbzd1eVFxUnV3NnQ2VmEzUVdMb3pMQ1N3VHhURXpjb1JMc0dBNE1DTFQ3TGllak4ycHVrUUJSY0RUV1luM1VrNm00NzRQMElfR0I2RER1VFhWSjRiX05XQkF4RzdKNDhaTTdDVE1wWDdR?oc=5",
-      "tags": [
-        "Materials",
-        "Business"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
-    },
-    {
-      "title": "Applied Materials EPIC Center: $5B Facility Linked to WFE Share, Revenue Goals - News and Statistics",
-      "source": "IndexBox",
-      "date": "2026-10-19T21:20:25+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaUgwdm1nQmFVQ1o5eG5ZMWFYQkxRQkJxbTF6dkJNQXRGN3I2SkNKUGlDczljZm5DTDU5QkU5RDh6RUVLU29GX2JzTzNNeDZYdFpOZGJ2T1dZN2QzVnJLOXlXVlJhby1OczBGZWQ4dnZDZ0VDeU5QcDhOM1liQ3didVBVXzkzSlU1ZjlmQmlkWEtldjVtMWRVMnFGTGpMZXR6dTZtRzc2dnpBU2F6V2ZnTmhDMEZ1cmE1Znc0a2k1V0xiYmYtLWNRc3Y2azdDSTlMOXBr?oc=5",
-      "tags": [
-        "Equipment",
-        "Materials",
-        "Business"
-      ],
-      "companies": [
-        "Applied Materials"
-      ],
-      "summary": "",
-      "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
     }
   ],
   "companies": [

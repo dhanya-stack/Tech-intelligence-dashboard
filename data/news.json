@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-21T08:42:00.869671+00:00",
+  "updated_at": "2026-11-22T08:41:22.013899+00:00",
   "stories": [
+    {
+      "title": "3 Chip Stocks Retail Investors Are Reading for AI Fab Buildout Exposure",
+      "source": "Yahoo Finance",
+      "date": "2026-11-21T14:09:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSVVKMjdXUnBDTnlmaW1nZkt3cDVyNmlndE9Qc09EcEc4OThHZDBHcHM2ck5NdVhnc3NzbUNsbDF5eWZLYVZLek5YVjhHQ2R5YnlIODVoS25udFJIaWNPVGdza0d4SmpIdkZYcnBSNVZBcnVxU1Y0SUN5WW1PeHZQNS1mMW40dWpwV3k0a1k5dzBSSzFVWVE?oc=5",
+      "tags": [
+        "AI & Compute",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
+    },
+    {
+      "title": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain",
+      "source": "Yahoo Finance",
+      "date": "2026-11-21T11:35:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcnRVU2FtckNYYW9xalcwdUNkUjJNTmxUdzRpdlVkbklJTklpUVNoTzNsR0NFaEtHd21TU1pybU45blU0VlUtU2NzOVVESjl6Y1F3M2hLVTVqZ2JFRjE2bGtjV1pDNC15djZic1hNWkV2UGdVUGdraUZGUXBmcnh4UDdYeUwxZnlKSWU4VlR6c2I2NjhFOGJKT01vYlhUX2dS?oc=5",
+      "tags": [
+        "AI & Compute"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "summary": "",
+      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
+    },
     {
       "title": "Data Center AI Chips Could Change the Winners: Broadcom and Marvell",
       "source": "24/7 Wall St.",
@@ -152,6 +179,18 @@
       "companies": [],
       "summary": "",
       "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Forecast & Analyst Predictions",
+      "source": "Simply Wall St",
+      "date": "2026-11-19T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWFhdURKS005VjVwM0VNV0dTbU9tb1pVZXpWN284eXpYTE1wREFFYS16ZGtaNWFZdXlYVWVsWGhpNkRFNGVIM3RNNDVJSUFKYnF0ak03T0ZRTGJ5RGhzU2l2SUN5d3g2UDJxdE0ybTFMZU1zTUVKVjBkY1psSTJhZFp2X2VPYTlpR0dyQm42MkQ1WFZ1V21FU0VhLThmdw?oc=5",
+      "tags": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
     },
     {
       "title": "Microsoft and OpenAI to Reduce Reliance on Nvidia by Expanding Use of AMD and In-House Chips",
@@ -375,6 +414,18 @@
       "source": "Investing.com",
       "date": "2026-11-18T05:10:45+00:00",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2R3MTZmMnVhSHU5Y0xpZ3BXdUo4MkFGck1VSERLTTROT1BsTmxsN05renlpNTN4S2FfbVI2NVpOejczNG1VRC00OTRwSFBTY1gxRFg3dTVfVVdRV1JETTF4dF9QOTZSMUJTbW5oU1NkTGotc09tYzQ1d2tnd1haem1TbEU2ME1UYU52ZlFYUTdZWURMd2pxRjJDeFQ4U1Q2eFpsUUMyODNTM1U5R3dVODNMMXpOclRhajE0LXM5bEVHRU9KWTVISzJUdnBkaXM4S2c?oc=5",
+      "tags": [
+        "Equipment"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
+    },
+    {
+      "title": "미래컴퍼니 Discloses KRW 2,090,000,000 Semiconductor Equipment Supply Contract",
+      "source": "The Globe and Mail",
+      "date": "2026-11-18T02:33:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV3ZLbnVWdzViZzM4Y0s1OWlKc2ZIaTlIUjBhMkd3VWd6T3NhQkNmS0xUTXVXYWNxcTJIdVlnN1VTSERwWlhQRVJQbldFLW9mMDMwOTlwdlgway12OVpxZll3LThLeHVVQUpEWHZFZFBldjlmcktPYXdvNlpmc0RvcWpyMm9nUzlLdXRHbU9fSTIzeTVob3F1N3FTTDNfWVgzS2ZTbUh4Y25HMXpiNkIyQWhyRnBmbG9jMEZHRWxSUkdCYlR1Y1dhNmt6NVFCQTVOcFJ4cmRUUU9DbmlmbGVYalVR?oc=5",
       "tags": [
         "Equipment"
       ],
@@ -862,6 +913,18 @@
       "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
     },
     {
+      "title": "Hard Kr Exclusive | USTB Academician Team Launches 2D Semiconductor Startup, Secures Tens of Millions RMB Financing Led By Inno, CAS Star & Other Institutions",
+      "source": "eu.36kr.com",
+      "date": "2026-11-16T09:01:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Tdk1VMkFYSXRoN0tjLWxvZkJyWnBJUTNNMDdlWG80YVAxOHVBelhGc3I0ODZJM09GTG1DdFNKQzJ0a185cnVMTHc1TjRpQXdsa29B?oc=5",
+      "tags": [
+        "Semiconductor"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
+    },
+    {
       "title": "What makes Singapore a prime location for semiconductor companies driving innovation?",
       "source": "Singapore Economic Development Board (EDB)",
       "date": "2026-11-16T08:00:00+00:00",
@@ -880,6 +943,18 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15cHZYelFwR3NTd1FCQUhJTTU3MWh4dWtXVnpuaWFMa3FNSVBqQ0ZDVUxHZmVSQlpuN0tPd1FGckdFdTlpNmUyS3lOV0hvMEtJTE9vZVZ0X2gwZFAzNDI3cTNrQi1BUmtDYlpENDdJaEVGQQ?oc=5",
       "tags": [
         "Semiconductor"
+      ],
+      "companies": [],
+      "summary": "",
+      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
+    },
+    {
+      "title": "Semiconductors 101: Chips, wafers and how they are made",
+      "source": "Singapore Economic Development Board (EDB)",
+      "date": "2026-11-16T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2N1NFh5SVFyVkU5ak9FeExFSWZBUzVoazNlQkNEYXBib3ZOQ1lnVUlVQXFOTEVjUHVTVW5GWlduMXVJcDZsbnpJTXJ2Rk05Q0haTlJNV09xc1dITXlBX19YdXRxdEwydWJUMDhmaTZMM1NOS3J4NGswV2EtR3JMb2JUVEUxTGExZlN5SlRzMjVidXBkVnhjN3B3NjdsQQ?oc=5",
+      "tags": [
+        "Materials"
       ],
       "companies": [],
       "summary": "",
@@ -1549,86 +1624,6 @@
       "companies": [],
       "summary": "",
       "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
-    },
-    {
-      "title": "SIMO - Silicon Motion Technology Corp. | News",
-      "source": "OTC Markets",
-      "date": "2026-11-12T08:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNU21kZVlUWnFOOTl5SDlzY3YzcUdVZjh2TXRtVkhMaG1sNDdTUVBwYjd4RmJRMTJ2T3paY3FCSmlqVldwTld0QlRfX2kzR2w5bmVfNGNMRWZDSG5GT0UtdzZ6RS1TMEFZeXQxQUstMjBtWTZHSEo2NFUtdW1MMkFwZzYzTE00LWtXSHRWOVlNZHdFeTRwVmRrQUU0eE9YaWpqSm44d01hWkhzOFN5TEMxZ1FyQlJmdkxSQWJMcTBFNVNPWDAxNFVBaUFoQkdpRUFnNmpvenBLcGVHZlZVcUp5N2R5cDEwZw?oc=5",
-      "tags": [
-        "Business"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang — The Fall of AI’s Keyman and Future Ecosystem",
-      "source": "The Korea Daily",
-      "date": "2026-11-12T07:45:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjNDJRSVQ5MklEeVJBdHljRnlUNFRVeVpPM2F0NTROTVVhbnhZaVozS0REUEo3WEpBNi04cF9YLUg1dDhoNndZbHdPRXNsQmhMUHpEZzUtd1VRQkFoOWlwMngwX3hXNW9kRlp4WGRsMDQ?oc=5",
-      "tags": [
-        "AI & Compute"
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "summary": "",
-      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
-    },
-    {
-      "title": "Thermo Fisher Scientific Continues Semiconductor Lab-to-Fab Innovation with Multiple Installations of Optis™ FIB-SEM",
-      "source": "AZoM",
-      "date": "2026-11-12T07:33:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qVGJ1b1kyNUZaQ3ZHOWhmTWNSbDQtdjNCQmNCVHc3YlNRMFg0VG1xTVBVYlRLRUdvc1lZckwydnRCckdnNERKa0M1QXZ3WDk0REN6LXlR?oc=5",
-      "tags": [
-        "Manufacturing"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "This development may affect semiconductor technology roadmaps, capacity, supply chains or the economics of building next-generation chips."
-    },
-    {
-      "title": "3 AI Semiconductor Stocks To Watch After Nvidia Stock Shock",
-      "source": "Simply Wall St",
-      "date": "2026-11-12T06:29:46+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPV3ZyblRZTzVLa1l1b25DcUdnYkdPMFFaWUpUdlRZdUE3clItdUN0THVBVGxpTVFmWFluSzB4Qm9xcW81dkFrVXdySFJkbmZENlpmZy0xTzQ0dnNkU21LVmluOEtxWXl3Znc5ekpsajJ5dDQ4TFZpUzVqdjU4SXNENjVXLTA5OTVxZVRBWFRycDNNSEZ0QVowbFBMcmZQYlVlV3Roa0ZlYmNLR0MtRjhVVjFkQzlWZGV2U2t2c2ZCNzU1X2ZpLVdDVWxlQkZvUG4wdEJMWkVaeDdnSUdKUlpIQ1ZWSGtoXzYtQ0hUaVpRelpCZ9IB9wFBVV95cUxOaXNtUXZVeXE0cWcxazRnYmxQOFhMeFRrZG9WRjViY19VRFk1NDg0WmtOaThmVG9pZW9TSDcxSGliWW80WERUU2tSa0NqWWFQeE43LVdmekFVR18ydFI1dDBpeHlFLUp2WXVrdHdkdzMtOFk1QmRYWnVhMGZyRHhvOEVPcEhPckhEb0R6OTRvcEk2TjBvdjFxcktleDlxcl9pM1FHYjZqQ252SS1FS1cwSW53RGM5Yzh5Z2dGUDUtNUc0amd3dVpkLVU2cjRBQXVWTnJPUHNBQ21QTy1IWThseXMydXQ4WE4wOHJCRFZCREt2enNqTUpn?oc=5",
-      "tags": [
-        "AI & Compute"
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "summary": "",
-      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
-    },
-    {
-      "title": "NVIDIA Order Cuts Could Benefit Competitors",
-      "source": "조선일보",
-      "date": "2026-11-12T04:45:57+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXFpMnNDWTRIRzB4RHo1S3hRd2Z4V2NyVFhral9mdzhMVWhwUWIzTUFFb3hZX0lQc3lsbXNpM01MbTJUVGJnUElRSDZtaVVxbmdhQ3JKNGltbEV4UmFtQ0xFazlwZm1PYVpnWmpyVU1kQmdnZnpKb3RsMkFfYmpEbnEyd1pzUjZH?oc=5",
-      "tags": [
-        "AI & Compute"
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "summary": "",
-      "why": "AI compute demand is reshaping semiconductor roadmaps across logic, memory, packaging, networking and fab investment."
-    },
-    {
-      "title": "Meerecompany Secures Semiconductor Manufacturing Equipment Supply Contract; Shares Jump 7%",
-      "source": "marketscreener.com",
-      "date": "2026-11-12T04:37:18+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb3k2TmxtSVN4Yy0wcElqMnFZam9mU1RqOTl1SjBGd0NBTFRmd0p1ZHBwVXozcDJiT3dYb05UNGhjdGdpd2xvNVhFcm40RWo5a3NGbDdhZXBfb2ZsYzdFQTlRRUdOYVdET1R5bXdraEtMeFFUVF9VUzdDMUs3OWxSSmdKU00yWG9mVXF6RUxlSS1sQUZTNWhlTnl3RWFKQzJZeUFPLUJEQlh3NEhtcTFiV0YwU09vLTdLdkpxbjNUTEtzck1CbkFUV3oxdEloTDJxbXdoOGJwdm4?oc=5",
-      "tags": [
-        "Equipment",
-        "Manufacturing",
-        "Business"
-      ],
-      "companies": [],
-      "summary": "",
-      "why": "Equipment changes often reveal where chipmakers are encountering new process limits. They can signal upcoming inflections in etch, deposition, lithography, metrology or packaging."
     }
   ],
   "companies": [
